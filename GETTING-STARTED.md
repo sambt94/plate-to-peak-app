@@ -22,7 +22,7 @@ You set it up once (about five minutes). After that it's just "drop a file and a
 2. Go to **Settings**, then find the section for adding plugins or extensions
    (it may be called **Capabilities** or **Connectors**).
 3. Choose to **add a plugin from GitHub** (sometimes worded "add a marketplace").
-4. Paste this: `sambt94/plate-to-peak`
+4. Paste this: `sambt94/plate-to-peak-app`
 5. When it appears, click **Install**, then make sure it's switched **on**.
 
 That is the only technical part, and you only ever do it once.

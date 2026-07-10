@@ -20,14 +20,14 @@ and never appear in any output.
 1. In the left sidebar, click **Connectors**.
 2. Click **Manage connectors**.
 3. Click **Add a personal plugin**.
-4. Choose **Add marketplace from GitHub** and enter: `sambt94/plate-to-peak`
-5. Install the **plate-to-peak** plugin from the marketplace.
+4. Choose **Add marketplace from GitHub** and enter: `sambt94/plate-to-peak-app`
+5. Install the **plate-to-peak-app** plugin from the marketplace.
 
 **In Claude Code:**
 
 ```
-/plugin marketplace add sambt94/plate-to-peak
-/plugin install plate-to-peak@plate-to-peak
+/plugin marketplace add sambt94/plate-to-peak-app
+/plugin install plate-to-peak-app@plate-to-peak-app
 ```
 
 ## Use
